@@ -63,3 +63,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## setup database 
+- first download SQL file for setup database
+- create new databse in phpmyadmin and import database file into it
+
+## setup this project
+
+- then start your any kind of server like wamp or xampp
+- copy all project in your local drive
+- setup your database configuration in your .env file
+- open command line run the code using artisan command(make shure you connect database perfactly)
+        [php artisan serve]
